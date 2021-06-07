@@ -1,6 +1,1 @@
-Thanks for downloading this template!
-
-Template Name: iprojects
-Template URL: https://bootstrapmade.com/iprojects-bootstrap-projects-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+This is a Work Portfolio as a part of Capstone Project at MSIT
